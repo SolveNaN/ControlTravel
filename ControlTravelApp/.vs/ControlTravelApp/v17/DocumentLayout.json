@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|c:\\users\\snayl\\onedrive\\escritorio\\huesly\\dago\\controltravel\\controltravelapp\\components\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|solutionrelative:components\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|c:\\users\\snayl\\onedrive\\escritorio\\huesly\\dago\\controltravel\\controltravelapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|c:\\users\\snayl\\onedrive\\escritorio\\huesly\\dago\\controltravel\\controltravelapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +62,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:20:59.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:20:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Inicio.razor",
               "DocumentMoniker": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Inicio.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Inicio.razor",
               "ToolTip": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Inicio.razor",
               "RelativeToolTip": "Components\\Pages\\Inicio.razor",
-              "ViewState": "AQIAAJsCAAAAAAAAAAAWwKwCAABIAAAA",
+              "ViewState": "AQIAAL8BAAAAAAAAAAAQwAYCAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-17T01:42:23.38Z",
               "EditorCaption": ""
