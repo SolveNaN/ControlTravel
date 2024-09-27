@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G6kOIhql7uA54rIvM16BzEJUMoVnSOu4S48MAlvfK8A=",
+  "Hash": "YLlpgl1FHXeM01puySOh26ICkVAe5n/HNGmZZaB2KmQ=",
   "Source": "ControlTravelApp",
   "BasePath": "_content/ControlTravelApp",
   "Mode": "Default",
@@ -511,6 +511,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\bg2.mp4"
     },
     {
+      "Identity": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\chow-fan-especial.jpg",
+      "SourceId": "ControlTravelApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\",
+      "BasePath": "_content/ControlTravelApp",
+      "RelativePath": "assets/images/chow-fan-especial.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\chow-fan-especial.jpg"
+    },
+    {
       "Identity": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\close.png",
       "SourceId": "ControlTravelApp",
       "SourceType": "Discovered",
@@ -661,6 +680,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\heading-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\images.jpg",
+      "SourceId": "ControlTravelApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\",
+      "BasePath": "_content/ControlTravelApp",
+      "RelativePath": "assets/images/images.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\images.jpg"
     },
     {
       "Identity": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\loading.gif",
@@ -834,6 +872,25 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\next.png"
     },
     {
+      "Identity": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\Nuevo Oeste Gastrobar.jpg",
+      "SourceId": "ControlTravelApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\",
+      "BasePath": "_content/ControlTravelApp",
+      "RelativePath": "assets/images/Nuevo Oeste Gastrobar.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\Nuevo Oeste Gastrobar.jpg"
+    },
+    {
       "Identity": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\play-icon.png",
       "SourceId": "ControlTravelApp",
       "SourceType": "Discovered",
@@ -870,6 +927,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\prev.png"
+    },
+    {
+      "Identity": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\Restaurante Corral de Piedra.jpg",
+      "SourceId": "ControlTravelApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\",
+      "BasePath": "_content/ControlTravelApp",
+      "RelativePath": "assets/images/Restaurante Corral de Piedra.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\Restaurante Corral de Piedra.jpg"
     },
     {
       "Identity": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\service-icon-01.png",

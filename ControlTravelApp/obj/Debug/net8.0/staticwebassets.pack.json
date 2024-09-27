@@ -93,6 +93,14 @@
       "PackagePath": "staticwebassets\\assets\\images\\MG_3107-2048x1365.jpg"
     },
     {
+      "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\Nuevo Oeste Gastrobar.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Nuevo Oeste Gastrobar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\Restaurante Corral de Piedra.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Restaurante Corral de Piedra.jpg"
+    },
+    {
       "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\apply-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\apply-bg.jpg"
     },
@@ -103,6 +111,10 @@
     {
       "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\bg2.mp4",
       "PackagePath": "staticwebassets\\assets\\images\\bg2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\chow-fan-especial.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\chow-fan-especial.jpg"
     },
     {
       "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\close.png",
@@ -135,6 +147,10 @@
     {
       "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\heading-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\images.jpg"
     },
     {
       "Id": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\wwwroot\\assets\\images\\loading.gif",
