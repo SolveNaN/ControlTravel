@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|c:\\users\\snayl\\onedrive\\escritorio\\huesly\\dago\\controltravel\\controltravelapp\\components\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|solutionrelative:components\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|c:\\users\\snayl\\onedrive\\escritorio\\huesly\\dago\\controltravel\\controltravelapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|c:\\users\\snayl\\onedrive\\escritorio\\huesly\\dago\\controltravel\\controltravelapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|c:\\users\\snayl\\onedrive\\escritorio\\huesly\\dago\\controltravel\\controltravelapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A3E24B9-F8D0-4F9F-9DF2-69A98AE59781}|ControlTravelApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,92 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:03:18.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T04:11:37.997Z"
+              "WhenOpened": "2024-09-27T08:00:43.169Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Routes.razor",
               "RelativeToolTip": "Components\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T02:20:59.377Z"
+              "WhenOpened": "2024-09-27T08:00:34.22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\App.razor",
               "RelativeToolTip": "Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T02:20:58.061Z"
+              "WhenOpened": "2024-09-27T08:00:06.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Inicio.razor",
-              "DocumentMoniker": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Inicio.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Inicio.razor",
-              "ToolTip": "C:\\Users\\snayl\\OneDrive\\Escritorio\\huesly\\dago\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Inicio.razor",
-              "RelativeToolTip": "Components\\Pages\\Inicio.razor",
-              "ViewState": "AQIAANwAAAAAAAAAAAAmwOoAAABJAAAA",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T01:42:23.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:00:02.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T07:59:41.114Z"
             }
           ]
         }

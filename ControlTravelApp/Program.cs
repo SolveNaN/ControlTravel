@@ -1,15 +1,10 @@
 using ControlTravelApp.Components;
-using Microsoft.AspNetCore.Components.Authorization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
-builder.Services.AddHttpClient();//incluye http client para peticiones api
-//incluye autorizacion
-builder.Services.AddAuthorizationCore();
-builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthStateProvider>();
 
 var app = builder.Build();
 

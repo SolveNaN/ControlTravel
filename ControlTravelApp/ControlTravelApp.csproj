@@ -7,56 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="wwwroot\bootstrap\icons\.github\preview.png" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="wwwroot\bootstrap\icons\.github\codeql\codeql-config.yml" />
-    <None Include="wwwroot\bootstrap\icons\.github\dependabot.yml" />
-    <None Include="wwwroot\bootstrap\icons\.github\ISSUE_TEMPLATE\bug_report.md" />
-    <None Include="wwwroot\bootstrap\icons\.github\ISSUE_TEMPLATE\icon-request.md" />
-    <None Include="wwwroot\bootstrap\icons\.github\release-drafter.yml" />
-    <None Include="wwwroot\bootstrap\icons\.github\workflows\codeql.yml" />
-    <None Include="wwwroot\bootstrap\icons\.github\workflows\deploy.yml" />
-    <None Include="wwwroot\bootstrap\icons\.github\workflows\lint.yml" />
-    <None Include="wwwroot\bootstrap\icons\.github\workflows\release-notes.yml" />
-    <None Include="wwwroot\bootstrap\icons\.github\workflows\test.yml" />
-    <None Include="wwwroot\bootstrap\icons\.git\config" />
-    <None Include="wwwroot\bootstrap\icons\.git\description" />
-    <None Include="wwwroot\bootstrap\icons\.git\HEAD" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\applypatch-msg.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\commit-msg.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\fsmonitor-watchman.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\post-update.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\pre-applypatch.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\pre-commit.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\pre-merge-commit.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\pre-push.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\pre-rebase.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\pre-receive.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\prepare-commit-msg.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\push-to-checkout.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\hooks\update.sample" />
-    <None Include="wwwroot\bootstrap\icons\.git\index" />
-    <None Include="wwwroot\bootstrap\icons\.git\info\exclude" />
-    <None Include="wwwroot\bootstrap\icons\.git\logs\HEAD" />
-    <None Include="wwwroot\bootstrap\icons\.git\logs\refs\heads\main" />
-    <None Include="wwwroot\bootstrap\icons\.git\logs\refs\remotes\origin\HEAD" />
-    <None Include="wwwroot\bootstrap\icons\.git\objects\pack\pack-0f70a0b764a84ba05cd999ce6f99b145fbfabcf7.idx" />
-    <None Include="wwwroot\bootstrap\icons\.git\objects\pack\pack-0f70a0b764a84ba05cd999ce6f99b145fbfabcf7.pack" />
-    <None Include="wwwroot\bootstrap\icons\.git\packed-refs" />
-    <None Include="wwwroot\bootstrap\icons\.git\refs\heads\main" />
-    <None Include="wwwroot\bootstrap\icons\.git\refs\remotes\origin\HEAD" />
+    <Folder Include="wwwroot\bootstrap\icons\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="8.0.7" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.2" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\bootstrap\icons\.git\objects\info\" />
-    <Folder Include="wwwroot\bootstrap\icons\.git\refs\tags\" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.1.0" />
   </ItemGroup>
 
 </Project>
