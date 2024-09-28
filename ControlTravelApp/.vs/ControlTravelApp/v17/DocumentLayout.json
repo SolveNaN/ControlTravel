@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,6 +21,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|c:\\users\\dagoberto\\source\\repos\\controltravel\\controltravelapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF3C9A9-30DA-4AF6-A193-56E7F1F52DE8}|ControlTravelApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-27T09:23:37.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Inicio.razor",
+              "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Inicio.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Inicio.razor",
+              "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Inicio.razor",
+              "RelativeToolTip": "Components\\Pages\\Inicio.razor",
+              "ViewState": "AQIAAO8CAAAAAAAAAAAwwPgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:16:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -63,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "Components\\Routes.razor",
@@ -75,19 +109,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
               "ToolTip": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\App.razor",
               "RelativeToolTip": "Components\\App.razor",
-              "ViewState": "AQIAADwAAAAAAAAAAAAuwEsAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-27T08:00:06.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -99,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Dagoberto\\source\\repos\\ControlTravel\\ControlTravelApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
