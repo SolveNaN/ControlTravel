@@ -1,0 +1,32 @@
+﻿@using ControlTravelApp.Models
+<div class="col-lg-6" style="cursor:pointer" data-bs-toggle="modal" data-bs-target="#ModalCarta">
+    <div class="meeting-item">
+        <div class="thumb">
+            <a><img src="@unidad.UrlImg1" alt="Festival Folclórico"></a>
+        </div>
+        <div class="down-content">
+            <a href="event-details.html"><h4>@unidad.Titulo</h4></a>
+            <p>@unidad.Descripcion1</p>
+            <p>@unidad.Ubicacion</p>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="ModalCarta" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        <div class="modal-content">
+            @if (verdetalle)
+            {
+                <Detalle unidad="unidad" />
+            }            
+        </div>
+    </div>
+</div>
+@code {
+    [Parameter]
+    public Unidad? unidad { get; set; }
+    public bool verdetalle = false;
+    
+}

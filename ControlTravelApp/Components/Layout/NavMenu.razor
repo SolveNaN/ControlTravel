@@ -1,30 +1,65 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">ControlTravelApp</a>
+﻿<ControlTravelApp.Components.Pages.ScriptEnlaces />
+<!--
+
+Sub Header
+
+<div class="sub-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-sm-8">
+                <div class="left-content">
+                    <p>Descubre el <em>paraíso turístico</em> de Acacías, Meta.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-4">
+                <div class="right-icons">
+                    <ul>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
-</div>
-
-<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
-
-<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
-    <nav class="flex-column">
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
-            </NavLink>
+</div>-->
+<!-- ***** Header Area Start ***** -->
+<header class="header-area header-sticky">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="index.html" class="logo">
+                        Acacías Turismo
+                    </a>
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav">
+                        <li class="scroll-to-section"><a href="#top" class="active">Inicio</a></li>
+                        <li><a href="rutas.html">Rutas</a></li>
+                        <li class="scroll-to-section"><a href="#hoteles">Hoteles</a></li>
+                        <li class="has-sub">
+                            <a href="javascript:void(0)">Guías</a>
+                            <ul class="sub-menu">
+                                <li><a href="guia-restaurantes.html">Restaurantes</a></li>
+                                <li><a href="guia-lugares.html">Lugares de Interés</a></li>
+                                <li><a href="guia-actividades.html">Actividades</a></li>
+                            </ul>
+                        </li>
+                        <li class="scroll-to-section"><a href="#planes">Planes y Promociones</a></li>
+                        <li class="scroll-to-section"><a href="#contacto">Contáctanos</a></li>
+                    </ul>
+                    <a class='menu-trigger'>
+                        <span>Menú</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
         </div>
+    </div>
+</header>
 
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
-            </NavLink>
-        </div>
-
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="weather">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
-            </NavLink>
-        </div>
-    </nav>
-</div>
+<!-- ***** Header Area End ***** -->
 

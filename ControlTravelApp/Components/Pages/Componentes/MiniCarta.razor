@@ -1,0 +1,12 @@
+﻿<div class="col-12">
+    <div class="count-area-content ">
+        <div class="count-digit">@Numero</div>
+        <div class="count-title">@Descripcion</div>
+    </div>
+</div>
+@code {
+    [Parameter]
+    public string? Numero { get; set; }
+    [Parameter]
+    public string? Descripcion { get; set; }
+}
